@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "503506397272",
+    "firebase_url": "https://royalpoliceband-a70f5.firebaseio.com",
+    "project_id": "royalpoliceband-a70f5",
+    "storage_bucket": "royalpoliceband-a70f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503506397272:android:76d75b2e8ad0523478422d",
+        "android_client_info": {
+          "package_name": "com.codecloutdevelopers.royal_police_band"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503506397272-ftocf7ri9oe9gt5jghgumh341159oreb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codecloutdevelopers.royal_police_band",
+            "certificate_hash": "69e077d02e0633c2811aab49f69a71cd9395d0d4"
+          }
+        },
+        {
+          "client_id": "503506397272-54aqdjbdnr8ih6s6qqfl8iku1du52dge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATAXook23MKbSvR1Kr5kh6aR6IcsIe7A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503506397272-54aqdjbdnr8ih6s6qqfl8iku1du52dge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
